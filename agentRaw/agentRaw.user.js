@@ -15,8 +15,6 @@
 
 const PROXY_URL = "https://ghproxy.com/";
 
-const GH_RAW_HOST = "raw.githubusercontent.com";
-
 const agentRaw = proxy => {
     const rawButton = document.querySelector("#raw-url");
     if (rawButton) {
