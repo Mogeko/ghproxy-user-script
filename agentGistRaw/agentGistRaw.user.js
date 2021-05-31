@@ -7,7 +7,7 @@
 // @supportURL   https://github.com/Mogeko/user-script-ghproxy/issues
 // @match        https://gist.github.com/*
 // @icon         https://github.githubassets.com/pinned-octocat.svg
-// @updataURL    https://cdn.jsdelivr.net/gh/Mogeko/user-script-ghproxy@master/agentRaw/agentRaw.user.js
+// @updataURL    https://cdn.jsdelivr.net/gh/Mogeko/user-script-ghproxy@master/agentGistRaw/agentGistRaw.user.js
 // @run-at       document-end
 // @grant        none
 // @license      MIT
