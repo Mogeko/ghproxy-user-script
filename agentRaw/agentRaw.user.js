@@ -21,10 +21,10 @@
 // @license      MIT
 // ==/UserScript==
 
-const PROXY_URL = "https://ghproxy.com/";
+const PROXY_URL = 'https://ghproxy.com/';
 
 const agentRaw = proxy => {
-    const rawButton = document.querySelector("#raw-url");
+    const rawButton = document.querySelector('#raw-url');
     if (rawButton) {
         rawButton.href = proxy + window.location.href;
     }

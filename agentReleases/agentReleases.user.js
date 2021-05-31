@@ -21,10 +21,10 @@
 // @license      MIT
 // ==/UserScript==
 
-const PROXY_URL = "https://ghproxy.com/";
+const PROXY_URL = 'https://ghproxy.com/';
 
 const agentReleases = proxy =>
-    document.querySelectorAll(".octicon-package, .octicon-file-zip")
+    document.querySelectorAll('.octicon-package, .octicon-file-zip')
         .forEach(svg => {
             const link = svg.parentNode;
             link.href = proxy + link.href;
