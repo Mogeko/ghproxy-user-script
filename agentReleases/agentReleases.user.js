@@ -4,7 +4,7 @@
 // @version      0.2.2
 // @description  通过代理为 GitHub Releases 提供加速
 // @author       Mogeko
-// @supportURL   https://github.com/Mogeko/user-script-ghproxy/issues
+// @supportURL   https://github.com/Mogeko/userscript-ghproxy/issues
 // @match        https://github.com/*/*
 // @exclude      https://github.com/*/*/issues*
 // @exclude      https://github.com/*/*/pulls*
@@ -15,7 +15,7 @@
 // @exclude      https://github.com/*/*/pulse*
 // @exclude      https://github.com/*/*/settings*
 // @icon         https://github.githubassets.com/pinned-octocat.svg
-// @updataURL    https://cdn.jsdelivr.net/gh/Mogeko/user-script-ghproxy@master/agentReleases/agentReleases.user.js
+// @updataURL    https://cdn.jsdelivr.net/gh/Mogeko/userscript-ghproxy@master/agentReleases/agentReleases.user.js
 // @run-at       document-end
 // @grant        none
 // @license      MIT

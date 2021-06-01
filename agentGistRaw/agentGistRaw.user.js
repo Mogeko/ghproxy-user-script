@@ -4,10 +4,10 @@
 // @version      0.1
 // @description  通过代理为 GitHub Gist 的 Raw Assets 提供加速
 // @author       Mogeko
-// @supportURL   https://github.com/Mogeko/user-script-ghproxy/issues
+// @supportURL   https://github.com/Mogeko/userscript-ghproxy/issues
 // @match        https://gist.github.com/*
 // @icon         https://github.githubassets.com/pinned-octocat.svg
-// @updataURL    https://cdn.jsdelivr.net/gh/Mogeko/user-script-ghproxy@master/agentGistRaw/agentGistRaw.user.js
+// @updataURL    https://cdn.jsdelivr.net/gh/Mogeko/userscript-ghproxy@master/agentGistRaw/agentGistRaw.user.js
 // @run-at       document-end
 // @grant        none
 // @license      MIT
