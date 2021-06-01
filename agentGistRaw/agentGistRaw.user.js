@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         GitHub 加速 (Gist)
 // @namespace    https://mogeko.me
-// @version      0.1
+// @version      0.1.1
 // @description  通过代理为 GitHub Gist 的 Raw Assets 提供加速
 // @author       Mogeko
 // @supportURL   https://github.com/Mogeko/userscript-ghproxy/issues
