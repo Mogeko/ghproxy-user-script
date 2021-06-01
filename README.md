@@ -16,8 +16,8 @@ https://ghproxy.com/
 
 
 [gf_agent_gist]:     https://greasyfork.org/zh-CN/scripts/427309-github-%E5%8A%A0%E9%80%9F-gist
-[dl_agent_gist]:     https://cdn.jsdelivr.net/gh/Mogeko/user-script-ghproxy@master/agentGistRaw/agentGistRaw.user.js
+[dl_agent_gist]:     https://cdn.jsdelivr.net/gh/Mogeko/userscript-ghproxy@master/agentGistRaw/agentGistRaw.user.js
 [gf_agent_raw]:      https://greasyfork.org/zh-CN/scripts/427303-github-%E5%8A%A0%E9%80%9F-raw
-[dl_agent_raw]:      https://cdn.jsdelivr.net/gh/Mogeko/user-script-ghproxy@master/agentRaw/agentRaw.user.js
+[dl_agent_raw]:      https://cdn.jsdelivr.net/gh/Mogeko/userscript-ghproxy@master/agentRaw/agentRaw.user.js
 [gf_agent_releases]: https://greasyfork.org/zh-CN/scripts/427230-github-%E5%8A%A0%E9%80%9F-releases
-[dl_agent_releases]: https://cdn.jsdelivr.net/gh/Mogeko/user-script-ghproxy@master/agentReleases/agentReleases.user.js
+[dl_agent_releases]: https://cdn.jsdelivr.net/gh/Mogeko/userscript-ghproxy@master/agentReleases/agentReleases.user.js
