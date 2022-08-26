@@ -1,3 +1,9 @@
+---
+
+#### :warning: This repo has been **abandoned** and moved to [mogeko/userscripts](https://github.com/mogeko/userscripts). :warning:
+
+---
+
 # GitHub 加速系列 Userscript
 
 使用代理为 GitHub 的 Releases/Tags, Raw, gist 等资源提供下载加速。
